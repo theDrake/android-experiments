@@ -1,4 +1,4 @@
 android-experiments
 ===================
 
-Experimental Android apps.
+A repository for my experiments with the Android SDK.
