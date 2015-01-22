@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">Experiment</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="app_title">Experimental Android App</string>
     <string name="action_settings">Settings</string>
 
 </resources>
